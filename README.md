@@ -142,7 +142,7 @@ strip-juice/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/strip-juice.git
+git clone https://github.com/Samir-frontend/strip-juice.git
 
 # Navigate to the folder
 cd strip-juice
@@ -196,9 +196,9 @@ Then open the URL shown in the terminal (usually `http://localhost:5173`).
 
 ---
 
-**\<Your Name\>** · Front-End Developer · 📍 \<Your City\>
+**Samir Sheikh** · Front-End Developer · 📍 Rawatbhata, Rajasthan
 
-[Portfolio](#) · [GitHub](#) · 📧 your-email@example.com
+[Portfolio](https://samir-frontend.github.io/Personal-Portfolio/) · [GitHub](https://github.com/Samir-frontend) · 📧 samirshiekh0808@gmail.com
 
 <br/>
 
