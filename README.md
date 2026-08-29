@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="#-live-demo">
+<a href="https://strip-juice.netlify.app/">
   <img src="https://img.shields.io/badge/🥤%20Open%20Strip-F2A340?style=for-the-badge&logoColor=black"/>
 </a>
 
@@ -186,7 +186,7 @@ Then open the URL shown in the terminal (usually `http://localhost:5173`).
 
 ## 🚀 Live Demo
 
-**[🥤 Open Strip →](#)**
+**[🥤 Open Strip →](https://strip-juice.netlify.app/)**
 
 ---
 
